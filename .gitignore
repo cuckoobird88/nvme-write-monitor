@@ -1,0 +1,10 @@
+temp/
+target/
+data/
+keys/
+tomcat.*/
+.env
+dependency-reduced-pom.xml
+*.iml
+.idea/
+.vscode/
